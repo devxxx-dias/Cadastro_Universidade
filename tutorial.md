@@ -18,14 +18,18 @@ Nesta página o usuário poderá realizar consulta de lançamentos financeiros, 
 Conterá a seleção de campo - Cadastrar Alunos, Fornecedores ou Professores e lançamentos financeiros.
 &nbsp;
 ### Prototipação -Página de Cadastramento de Alunos (Visualização do Usuário Funcionário)
+Página para inserção e verificação de dados do aluno ingressante.
 &nbsp;
-### Prototipação -Página de Cadastramento de Fornecedores (Visualização do Usuário Funcionário) 
+### Prototipação -Página de Cadastramento de Fornecedores (Visualização do Usuário Funcionário)
+Página para inserção e validaçõa de dados no cadastramento de novos prestadores de serviços.
 &nbsp;
-### Prototipação -Página de Cadastramento de Professores (Visualização do Usuário Funcionário) 
+### Prototipação -Página de Cadastramento de Professores (Visualização do Usuário Funcionário)
+Página destinada para o cadastramento dos docentes da universidade.
 &nbsp;
 ### Prototipação -Página Financeiro (Visualização do Usuário Funcionário)
 Para lançamentos de prestações de serviço por terceiros e 
 recebimentos dos alunos. 
+&nbsp;
 &nbsp;
 ### Prototipação -Página de Cadastramento de Professores (Visualização do Usuário Funcionário)
 Nesta página o professor terá acesso ao
