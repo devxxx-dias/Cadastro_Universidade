@@ -46,7 +46,7 @@
 
 - MER
 - Modelo lògico do Banco de Dados
-- Prototipação Low Fidelity
+- Prototipação Low Fidelity dos layouts do projeto
 - Prototipação High Fidelity
 - Prototipação - Página Home
 - Prototipação - Página Login
@@ -69,12 +69,12 @@
 &nbsp;
 &nbsp;
 
-## Prototipação Low Fidelity
+## Prototipação Low Fidelity de todos os layouts de página do projeto
 ![Low Fidelity](https://github.com/devxxx-dias/Cadastro_Universidade/assets/104696883/ac33253e-ccf7-488d-bcf8-f3b8a2f03273)
 &nbsp;
 &nbsp;
 
-## Prototipação High Fidelity
+## Prototipação High Fidelity das páginas
 
 ## Página Home
 ![Home](https://github.com/devxxx-dias/Cadastro_Universidade/assets/104696883/0eb7e2d5-f43e-4206-b0f1-6d6062ea9bd7)
@@ -101,8 +101,13 @@
 &nbsp;
 &nbsp;
 
-## Página de Cadastramento, **Alunos**, **Funcionários** e **Fornecedores** - Funcionários
+## Página de Cadastramento, Alunos, Funcionários e Fornecedores - Funcionários
 ![Cadastramento](https://github.com/devxxx-dias/Cadastro_Universidade/assets/104696883/49030696-9ba3-4f7e-8653-0ec2b04d26b9)
+&nbsp;
+&nbsp;
+
+## Página de Cadastramento de Fornecedores - Funcionários
+![Cadastramento Fornecedor](https://github.com/devxxx-dias/Cadastro_Universidade/assets/104696883/5a4c5eb0-9188-4e49-aa9c-afeaa064fc72)
 &nbsp;
 &nbsp;
 
