@@ -65,7 +65,7 @@
 &nbsp;
 
 ## Modelo lògico do Banco de Dados
-![Modelo Lógico - Projeto Integrador](https://github.com/devxxx-dias/Cadastro_Universidade/assets/104696883/b032aaed-307c-441c-825f-0ea405dcb3bd)
+![Modelo Lógico - Projeto Integrador](https://github.com/devxxx-dias/Cadastro_Universidade/assets/104696883/5c4159ff-8772-4427-97a6-61fba6f372af)
 &nbsp;
 &nbsp;
 
@@ -101,7 +101,7 @@
 &nbsp;
 &nbsp;
 
-## Página de Cadastramento, Alunos, Funcionários e Fornecedores - Funcionários
+## Página de Cadastramento, Alunos, Professores e Fornecedores - Funcionários
 ![Cadastramento](https://github.com/devxxx-dias/Cadastro_Universidade/assets/104696883/49030696-9ba3-4f7e-8653-0ec2b04d26b9)
 &nbsp;
 &nbsp;
@@ -118,6 +118,7 @@
 
 ## Página de Lançamento de Notas Fiscais
 ![Pagina Nota Fiscal](https://github.com/devxxx-dias/Cadastro_Universidade/assets/104696883/e4726e73-c7d4-4151-8aa4-101392f5aa01)
+
 &nbsp;
 &nbsp;
 
@@ -132,12 +133,12 @@
 &nbsp;
 
 ## Página Inicial - Lançamentos de Notas - Professores
-![Pagina Nota Fiscal](https://github.com/devxxx-dias/Cadastro_Universidade/assets/104696883/e4726e73-c7d4-4151-8aa4-101392f5aa01)
+![Lancar Notas](https://github.com/devxxx-dias/Cadastro_Universidade/assets/104696883/b90af853-9c37-419b-b211-1e89c8913024)
 &nbsp;
 &nbsp;
 
 ## Página Inicial - Acessar o Calendário Acadêmico - Professores e Alunos
-![Calendario Acadêmico](https://github.com/devxxx-dias/Cadastro_Universidade/assets/104696883/a0592efd-88c1-4c97-9571-acf156a131f0)
+![Calendario Acadêmico](https://github.com/devxxx-dias/Cadastro_Universidade/assets/104696883/5d499330-0b58-4020-a074-eb349b67f95f)
 &nbsp;
 &nbsp;
 
