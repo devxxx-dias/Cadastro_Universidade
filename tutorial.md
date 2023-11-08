@@ -2,7 +2,6 @@
 &nbsp;
 &nbsp;
 ## Prototipação - Página Home
-[Página Home](https://github.com/devxxx-dias/Cadastro_Universidade/blob/5767edef02bc7b493b8e299c6629e6706a6d6d2e/README.md?plain=1#L79-L80)
 A página inicial conterá uma breve descrição da universidade e os campos login e senha para acessar o sistema de consulta e cadastramento
 da universidade.
 &nbsp;
