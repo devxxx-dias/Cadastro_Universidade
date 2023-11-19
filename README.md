@@ -60,7 +60,7 @@
 &nbsp;
 
 ## MER
-
+![MER](https://github.com/devxxx-dias/Cadastro_Universidade/assets/104696883/ec3acb36-a960-4abe-8e77-7107c7840078)
 &nbsp;
 &nbsp;
 
