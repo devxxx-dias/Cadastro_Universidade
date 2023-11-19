@@ -44,7 +44,7 @@
 &nbsp;
 &nbsp;
 
-- MER
+- MER (Modelo Entidade Relacionamento)
 - Modelo lògico do Banco de Dados
 - Prototipação Low Fidelity dos layouts do projeto
 - Prototipação High Fidelity
@@ -59,7 +59,7 @@
 &nbsp;
 &nbsp;
 
-## MER
+## MER (Modelo Entidade Relacionamento)
 ![MER](https://github.com/devxxx-dias/Cadastro_Universidade/assets/104696883/ec3acb36-a960-4abe-8e77-7107c7840078)
 &nbsp;
 &nbsp;
